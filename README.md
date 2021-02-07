@@ -8,6 +8,7 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 # List of Problems
 
 
-| Problem     | Subdomain   | Problem Link|
-| ----------- | ----------- | ----------- |
-|             |             |             |
+|         Problem              | Subdomain    | Problem Link|
+| ---------------------------- | ------------ | ----------- |
+| Say "Hello, World!" With C++ | Introduction | [Link](https://www.hackerrank.com/challenges/cpp-hello-world/problem)|
+|Input and Output| Introduction|[Link](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)|
