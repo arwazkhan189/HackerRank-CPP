@@ -25,7 +25,6 @@ int main(){
 		cin>>in;
 	}
 	int n = A.size();
-//	cout<<maximumSubarraySum(A,n)<<endl;
-	cout<<n;
+	cout<<maximumSubarraySum(A,n)<<endl;
 	return 0;
 }
